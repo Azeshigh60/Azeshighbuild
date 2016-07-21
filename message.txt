@@ -1,13 +1,10 @@
-1
-||||
-We're very excited to announce the [B][COLOR white]launch of our new FreeTelly app[/COLOR][/B] - it's a
-custom version of Kodi that comes with everything preinstalled and ready for use!
+2
+|||
+Im very excited to announce the [B][COLOR white]Azeshigh V3.0 in Exclusive to GenieTV[/COLOR][/B]
+Adukt section in build the addons are pin protect[B][COLOR white]Pin 1234[/COLOR][/B]
 
-Visit the Following Link to Download FreeTelly: (download buttons fixed)
-[B][COLOR white]https://www.tvaddons.ag/freetelly-launch/[/COLOR][/B]
-
-Don't Forget to Enter to [B][COLOR white]Win an NVIDIA SHIELD TV[/COLOR][/B]:
-[B][COLOR white]https://www.tvaddons.ag/freetelly-contest/[/COLOR][/B]
+Thanks to James Atkinson for Build Intro
+[B][COLOR white]Source http://Genietv.co.uk/repo[/COLOR][/B]
 
 At this point, we'd like to thank you for your continuous support, and wish
 everyone a relaxing summer with lots of fun under the sun!
